@@ -4,3 +4,9 @@ E:\Poss\Poss\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
 E:\Poss\Poss\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
 E:\Poss\Poss\DAL\obj\Debug\DAL.dll
 E:\Poss\Poss\DAL\obj\Debug\DAL.pdb
+D:\Projects\New folder\PossSystem\Poss\DAL\bin\Debug\DAL.dll
+D:\Projects\New folder\PossSystem\Poss\DAL\bin\Debug\DAL.pdb
+D:\Projects\New folder\PossSystem\Poss\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Projects\New folder\PossSystem\Poss\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Projects\New folder\PossSystem\Poss\DAL\obj\Debug\DAL.dll
+D:\Projects\New folder\PossSystem\Poss\DAL\obj\Debug\DAL.pdb
